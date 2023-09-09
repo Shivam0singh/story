@@ -1,0 +1,2 @@
+hi i am chapter1.
+and you are using windows terminal. 
